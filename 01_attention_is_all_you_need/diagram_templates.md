@@ -246,24 +246,3 @@ Probabilities: [1.25/4.27, 1.30/4.27, 1.72/4.27]
 Step 4: Weighted Sum with Values
 Final output = 0.29×Value("The") + 0.30×Value("cat") + 0.40×Value("sat")
 ```
-
----
-
-## 🎨 **How to Convert These to Images**
-
-1. **Copy any diagram above**
-2. **Paste into Draw.io or Canva**
-3. **Convert text to visual elements**:
-   - Boxes become rounded rectangles
-   - Arrows become flowing connectors
-   - Colors: Blue for input, Green for processing, Orange for output
-4. **Add your color scheme and branding**
-
-## 🖼️ **Image Prompts for AI Generation**
-
-**For DALL-E/Midjourney:**
-- "Clean technical diagram of transformer attention mechanism, arrows connecting words, minimal blue and white color scheme"
-- "Isometric illustration of neural network architecture, transformers, attention heads, professional technical drawing style"
-- "Infographic showing before and after comparison of RNN vs Transformer processing, arrows and flow charts"
-
-Would you like me to create any specific diagrams or help you plan the visual story for your Medium article? 
